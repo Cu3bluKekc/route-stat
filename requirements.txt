@@ -1,0 +1,2 @@
+selenium==2.52.0
+unicodecsv==0.14.1
