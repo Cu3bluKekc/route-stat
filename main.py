@@ -104,7 +104,7 @@ def arguments():
     parser.add_argument('--csv_path', help="Путь к csv файлу со статистикой")
 
     args = parser.parse_args()
-    return args.__dict__
+    return vars(args)
 
 
 if __name__ == '__main__':
