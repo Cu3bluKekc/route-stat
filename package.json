@@ -1,0 +1,22 @@
+{
+  "name": "route-stat",
+  "version": "0.0.0",
+  "description": "Ходит в [яндекс карты](https://maps.yandex.ru/) по ссылке и сохраняет в csv файл первый результат по маршрутам и скриншот. Можно пользоваться сокращателями ссылок.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Cu3bluKekc/route-stat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cu3bluKekc/route-stat/issues"
+  },
+  "homepage": "https://github.com/Cu3bluKekc/route-stat",
+  "dependencies": {
+    "phantomjs": "^2.1.3"
+  }
+}
